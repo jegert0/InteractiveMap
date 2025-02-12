@@ -390,7 +390,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1043461507}
   - component: {fileID: 1043461508}
-  - component: {fileID: 1043461509}
   m_Layer: 0
   m_Name: Cesium3DTileset
   m_TagString: Untagged
@@ -454,20 +453,6 @@ MonoBehaviour:
   _updateInEditor: 1
   _logSelectionStats: 0
   _createPhysicsMeshes: 1
---- !u!114 &1043461509
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1043461506}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d2f7bf3840904449993b4ea3b20aff7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Ces: {fileID: 878644867}
-  Key: AIzaSyAuGZ9t3wB0wfe3Io6kNzGJMkU5ALrHB6k
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

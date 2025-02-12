@@ -8,7 +8,7 @@ public class API : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] public GameObject Ces;
-    public string Key = "";
+    public string Key;
     
     void Update(){
         checkURL();
